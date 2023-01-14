@@ -1,0 +1,42 @@
+<DOCTYPE html>
+<html>
+<head>
+    <title>Resume</title>
+</head>
+<body>
+     <img src="https://cdn.pixabay.com/photo/2016/08/20/05/38/avatar-1606916_1280.png" alt="A beautiful landscape" width="200" height="200">
+  <hr>
+    <h1>Tushar Saini</h1>
+  <br>
+    <p>Contact Information:</p>  
+    <ul>
+        <li>Email: 45tusharsaini@mail.com</li>
+        <li>Phone: 9982297657</li>
+    </ul><hr>
+    <h2>Objective</h2>
+    <p>
+      
+        As a student aspiring to have a career in computer science,<br>
+      I am constantly seeking opportunities to learn and grow in this field.<br>I am eager to continue learning and contributing to field,and I am open to any oppournities that may come my way.</p><hr>
+    <h2>Education</h2>
+    <h3>Bachelor's degree in Computer Science</h3>
+    <p>Government Engineering College Bikaner</p>
+    <p>Student at Govt.Engineering College Bikaner.</p>
+<p><hr>
+  <h2>Projects</h2>
+  <p>
+    <li>Using HTML, making Forms</li>
+    
+    </p>
+  <a href="https://codepen.io/tushar07c/pen/MWBbQrE">Use this link</a>
+  <li>Using HTML, making Table</li>  
+  <a href="https://codepen.io/tushar07c/pen/ExpgKaR">Use this link</a>
+  <hr>
+</body>
+</html>
+body { background-color: black; 
+  margin: 50px;
+}
+img {
+   float:right;
+}
